@@ -4,7 +4,8 @@
   "description": "Repositório para aula de Estrutura de Dados dia 01/09/2023",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "maior": "ts-node ./src/maior_recursivo_view",
+    "serie": "ts-node ./src/serie_recursiva_view"
   },
   "keywords": [],
   "author": "",
